@@ -35,6 +35,9 @@ buscador de YouTube:
     * Diseño Grafico Estático.
     * Guias de Estilo.
     > colores: en nuestro caso vamos a usar para la armonia de colores: la triada.
+    
+![color_botones](img_readme/image.png)
+
 
 4) **PROTOTIPO FUNCIONAL**
     * Simula las Interacciones
