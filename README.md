@@ -123,6 +123,10 @@ Si tu logo ya tiene varios colores (como el magenta y morado), **repítelos en l
 5) **PROGRAMACIÓN**
     * Código (Nativo, Escritorio o Web)
 
+    
+
+
+
 **PROYECTO:**
 
 **Landing Page de EVR**
